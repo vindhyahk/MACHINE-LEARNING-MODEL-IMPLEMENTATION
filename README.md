@@ -23,7 +23,7 @@ The model is trained on the UCI SMS Spam Collection Dataset, which contains a se
 The dataset is publicly available at: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
 
-Model Performance
+# Model Performance:
 The final model achieves:
 
 Accuracy: ~98%
